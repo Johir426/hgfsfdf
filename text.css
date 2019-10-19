@@ -1,0 +1,65 @@
+*{margin:0px; padding:0px}
+img{width:100%;max-width:100%}	
+}
+.photo{ height:200px}
+.brknw{width:1400px; height:30px;   padding:30px opx;}
+.brk{float:left;background-color:b35998; width:110px; text-align:center; color:Gold;}
+.nw{ float:right; width:1290px; background-color:tomato;}
+.link{ margin-top:240px; height:50px; background-color:#39a1dc;}
+.nav{  top:20px; 
+	
+}
+.link ul a:hover{
+	background-color:black; color:white; 
+	
+}
+.link ul{ }
+.link ul li{  float:left;List-style-type:none;  margin-top:10px; margin-left:100px;
+}
+.link ul li a	{ padding:10px; margin-top:20px;
+padding-top:10px; 
+    text-decoration: none;
+    font-family: arial;
+ }
+ .Foot{    width: 100%;
+    height: 210px;
+    background-color: #769ac5}	
+ .foot .useful{color:red; padding:10px;}	
+ .foot useful grp {  }	
+ .foot .useful .grp ul li {  margin-right:10px; }	
+ .grp ul li a{text-decoration:none; color:#89ff0c; margin-right:5px;
+ font-family: monospace;}	
+ .grp ul a:hover{ text-decoration:underline; color:Black}	
+ .foot p {  margin-right:200px; float:right}	
+	
+ .mid{margin-right:00px; margin-left:20px; background-color:black;  }	
+ .icon  {text-align:center; padding:10px; }	
+ .mid h3{text-align:center; padding:10px; font-family: cursive; }
+.mid p{color:#7109cc ;padding:20px;}
+.hum{ background-color:#00bcd4;float:right; width:600px ; border:1px solid black }                                                 
+	.design {text-align:center; padding:10px;}
+	.mid he {text-align:center; padding:10px;}
+	 .mid p{color:#ffffff ;padding:20px;}
+	 .foat{width:600px ;float:left;border:1px solid black;background-color:#00bcd4;}
+	.section.foat {float:left}
+	 {}
+	 {}
+	 {}
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
